@@ -87,9 +87,7 @@ bg_color=#808080/>
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
-
 <br/>  
-
 
 <p align="center"> <img src="https://gpvc.arturio.dev/John-Salama" alt="Profile count" /> </p>
 
