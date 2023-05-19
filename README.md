@@ -84,8 +84,9 @@ alt="adam-pw"
 bg_color=#808080/>
 
 </div>
-
-
+<div align="center">
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+</div> 
 
 <br/>  
 
