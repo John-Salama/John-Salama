@@ -85,7 +85,7 @@ bg_color=#808080/>
 
 </div>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/John-Salama/John-Salama/blob/output/github-contribution-grid-snake.svg)
 
 <br/>  
 
