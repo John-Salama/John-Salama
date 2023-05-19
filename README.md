@@ -76,14 +76,16 @@
 </div>  
 <br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://github.com/John-Salama/John-Salama/assets/89663721/4faa5420-4116-465e-b0ed-1fd76a3effa4" style="width:400px"/>
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Salama&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="adam-pw"
 bg_color=#808080/>
-
 </div>
+
+<p align = "center">
+<img src="https://github.com/John-Salama/John-Salama/assets/89663721/4faa5420-4116-465e-b0ed-1fd76a3effa4" style="width:500px"/>
+</p>
 
 ![Snake animation](https://github.com/John-Salama/John-Salama/blob/output/github-contribution-grid-snake.svg)
 
