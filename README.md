@@ -84,7 +84,7 @@ bg_color=#808080/>
 </div>
 
 <p align = "center">
-<img src="https://github.com/John-Salama/John-Salama/assets/89663721/4faa5420-4116-465e-b0ed-1fd76a3effa4" style="width:500px"/>
+<img src="https://github.com/John-Salama/John-Salama/assets/89663721/4faa5420-4116-465e-b0ed-1fd76a3effa4" style="width:400px"/>
 </p>
 
 ![Snake animation](https://github.com/John-Salama/John-Salama/blob/output/github-contribution-grid-snake.svg)
