@@ -90,7 +90,7 @@ bg_color=#808080/>
 <br/>  
 
 <p align = "center">
-	<img src="https://gpvc.arturio.dev/John-Salama" alt="Profile count" /> </p>
+    <img src="https://gpvc.arturio.dev/John-Salama" alt="Profile count" />
 </p>
 
 <br />
