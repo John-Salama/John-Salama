@@ -1,10 +1,10 @@
-## <div align="center">I'm John Salama <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm John Salama </div>
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
-  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+  <img src="https://github.com/John-Salama/John-Salama/assets/89663721/6e143aba-f4dc-472c-9f38-6d10afad0cee" style="width:250px"/>
+  <img src="https://github.com/John-Salama/John-Salama/assets/89663721/274888b4-c92c-45eb-9153-32f246e415cc" style="width:250px"/>
+  <img src="https://github.com/John-Salama/John-Salama/assets/89663721/e87676a9-94f9-418a-a748-11a033a5ad39" style="width:250px"/>
 </div>
 
 ### <div align="center">I'm a Student of Helwan University, Egypt. Still in the process of learning in the world of Web Development</div>
@@ -76,7 +76,7 @@
 </div>  
 <br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
+<img src="https://github.com/John-Salama/John-Salama/assets/89663721/4faa5420-4116-465e-b0ed-1fd76a3effa4" style="width:400px"/>
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Salama&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
