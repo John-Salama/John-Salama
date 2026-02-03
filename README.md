@@ -13,9 +13,6 @@
 <!-- 🌟 QUICK INFO BADGES -->
 <img src="https://img.shields.io/badge/📍_Cairo,_Egypt-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/🎓_Computer_Engineering-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/💼_Egyptian_Air_Defense_R&D-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
-
-<br/><br/>
 
 <!-- 👁️ PROFILE VIEWS & FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=John-Salama&style=for-the-badge&color=00D9FF&labelColor=1a1b27" alt="Profile Views"/>
