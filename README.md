@@ -5,15 +5,15 @@
 
 <!-- 🔥 TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=🚀+Building+Scalable+Web+Applications;💡+Transforming+Ideas+into+Reality;⚡+React+%7C+Next.js+%7C+Node.js+Expert;🎯+Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%F0%9F%92%A1+Transforming+Ideas+into+Reality;%E2%9A%A1+React+%7C+Next.js+%7C+Node.js+Expert;%F0%9F%8E%AF+Clean+Code+Enthusiast" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- � QUICK INFO BADGES -->
-<img src="https://img.shields.io/badge/📍-Cairo,_Egypt-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/🎓-Computer_Engineering-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/💼-Egyptian_Air_Defense_R&D-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
+<!-- 🌟 QUICK INFO BADGES -->
+<img src="https://img.shields.io/badge/📍_Cairo,_Egypt-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🎓_Computer_Engineering-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/💼_Egyptian_Air_Defense_R&D-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
 
 <br/><br/>
 
@@ -30,31 +30,22 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> About Me
 
-```javascript
-const johnSalama = {
-  pronouns: "he" | "him",
-  location: "Cairo, Egypt 🇪🇬",
-  currentRole: "Full Stack Software Engineer @ Egyptian Air Defense Forces R&D",
-  education: "B.Sc. Computer Engineering",
+<p align="center">
+  <strong>🚀 Full Stack Software Engineer | 💡 Problem Solver | 🎯 Innovation Enthusiast</strong>
+</p>
 
-  code: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "Material-UI", "Styled Components"],
-      state: ["Redux", "Redux Toolkit", "React Query"],
-    },
-    backEnd: {
-      js: ["Node.js", "Express.js"],
-    },
-    mobile: ["React Native"],
-    databases: ["MongoDB", "MySQL"],
-    devOps: ["Git", "GitHub Actions", "Docker"],
-  },
-  currentlyLearning: "Cloud Architecture & DevOps",
-  funFact: "I debug with console.log and I'm not ashamed! 😄",
-};
-```
+<p align="center">
+  📍 Cairo, Egypt | 🎓 Computer Engineering Graduate | 💼 Currently @ Egyptian Air Defense Forces R&D
+</p>
+
+<div align="center">
+
+- 🔭 I'm currently working on **scalable web applications**
+- 🌱 I'm currently learning **Cloud Architecture & DevOps**
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript**
+- ⚡ Fun fact: **I debug with console.log and I'm not ashamed! 😄**
+
+</div>
 
 <!-- 📌 DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -65,40 +56,43 @@ const johnSalama = {
 
 ### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,materialui,redux&theme=dark" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📱 Mobile Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -140,21 +134,11 @@ const johnSalama = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/john-salama-beshay/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-<a href="https://github.com/John-Salama">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-</a>
-<a href="https://john-portfolio-mu.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722"/>
-</a>
-<a href="mailto:john.salama.beshay@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-<a href="https://www.facebook.com/jon.salama.10/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-salama-beshay/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-Salama)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://john-portfolio-mu.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.salama.beshay@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jon.salama.10/)
 
 </div>
 
