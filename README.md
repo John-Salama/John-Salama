@@ -38,7 +38,7 @@
 <div align="center">
 
 - 🔭 I'm currently working on **scalable web applications**
-- 🌱 I'm currently learning **Cloud Architecture & DevOps**
+- 🌱 I'm currently learning **Microservices Architecture**
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript**
 - ⚡ Fun fact: **I debug with console.log and I'm not ashamed! 😄**
 
@@ -67,6 +67,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -101,8 +102,12 @@
 <div align="center">
   
 <!-- 🔥 GITHUB STATS CARD -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=John-Salama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=John-Salama&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<a href="https://github.com/John-Salama">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=John-Salama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/John-Salama">
+  <img width="49%" src="https://streak-stats.demolab.com?user=John-Salama&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</a>
 
 </div>
 
