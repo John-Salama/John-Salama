@@ -106,7 +106,7 @@
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=John-Salama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/John-Salama">
-  <img width="49%" src="https://streak-stats.demolab.com?user=John-Salama&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=john-salama&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B" alt="GitHub Streak"/>
 </a>
 
 </div>
