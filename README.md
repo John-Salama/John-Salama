@@ -57,8 +57,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-salama&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E60000&icon_color=E60000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-salama&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E60000" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=John-Salama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E60000)
 </div>
 
 <div align="center">
