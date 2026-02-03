@@ -57,7 +57,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Salama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E60000" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=John-Salama&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=John-Salama&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=John-Salama&theme=radical" alt="Most Used Languages" />
 </div>
 
 <div align="center">
