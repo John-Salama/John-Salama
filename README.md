@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📍 Cairo, Egypt | 🎓 Computer Engineering Graduate | 💼 Currently @ Egyptian Air Defense Forces R&D
+  📍 Cairo, Egypt | 🎓 Computer Engineering Graduate
 </p>
 
 ---
