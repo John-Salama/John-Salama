@@ -57,12 +57,11 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=John-Salama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E60000)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=John-Salama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E60000" alt="Top Languages" />
 </div>
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-salama&theme=youtube-dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=john-salama&theme=youtube-dark" alt="GitHub Streak" />
 </div>
 
 
